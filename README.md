@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago Rufino!</h1>
-<h3 align="center">A passionate Full Stack Developer from Portugal</h3>
+
 
 - 📫 How to reach me **trufino90@gmail.com**
 
